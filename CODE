@@ -5,14 +5,68 @@
  <h1> Mount Caramel Book Club  </H1>
     <H2> WELCOME TO MOUNT CARAMEL BOOKCLUB--MCBC</H2>
 <P> Mount caramel book club, Or widely known as <mark> mcbc</mark>, is an online community or bookclubs, just right for your little bookworm.</P>
-<h2> Meet our fantastic teachers </h2>
+<h2> Meet our fantastic principals. </h2>
 <u> <h3> Miss Amara </h3> </u>
-<p> Miss amara teaches in a variety of bookclubs and schools, she was awarded 'BEST TEACHER OF THE YEAR' in mount caramel school</p>
+<p> Miss amara teaches in a variety of bookclubs and schools, she was awarded 'BEST TEACHER OF THE YEAR' in mount caramel school, now awarded as co principal</p>
 <u> <b> Mrs isadora </b> </u>
-<p> newly hired but ecxellent at teaching, miss isadora was awarded many medals for her teachings</p>
+<p> newly hired but ecxellent at teaching, miss isadora was awarded many medals for her teachings, also now co principal </p>
  <del> SUMMER DISCOUNT! Booklcub fees lower charges upto 20%, Dont miss this deal!!! </del>
 
-<h1> </h1>
-<small> this is not a real school, and not based of one or meant to be someone.</small>
+<h1> <a href="https://en.wikipedia.org/wiki/Mount_Carmel_School"> wiki page.</a> </h1>
+<ul>
+    <li> our awesome</li>
+    <li> stuff </li>
+</ul>
+<ol> 
+    <li> cool pens  </li>
+    <li> fancy stuff</li>
+</ol>
+<table border="5">
+    <th> Gallery </th>
+    <th> NAME </th>
+    <th> age </th>
+    <th> nationality </th>
+    <th> awards </th>
+
+<tr> 
+    <td> <img src="https://media.istockphoto.com/id/1401269015/photo/concentrated-asian-middle-aged-female-businesswoman-using-portable-computer.jpg?s=612x612&w=0&k=20&c=mJMKgkKkZXdFCq53RxuTuVjhOYwETWaIVKC3TCkpCJ0=" height="200" > </td>
+    <td> mrs sasha frenchau </td>
+<td> spanish </td>
+<td> 43 </td>
+<td> 2 </td>
+</tr>
+<tr> 
+    <td> <img src="https://as2.ftcdn.net/jpg/01/99/36/81/1000_F_199368197_CXhzovd2cgXhK3SR4xjUKNhTer8j5I87.jpg" height="200" ></td>
+    <td> mr mark johnson </td>
+<td> american </td>
+<td> 31 </td>
+<td> 5 </td>
+</tr>
+<tr> <td> <img src="https://img.freepik.com/free-photo/smiley-teacher-holding-tablet_23-2148668619.jpg?semt=ais_hybrid&w=740" height="200" ></td>
+    <td> miss saboor </td>
+<td> irani </td>
+<td> 29 </td>
+<td> 3 </td>
+</tr>
+<tr> 
+    <td> <img src="https://img.freepik.com/free-photo/front-view-man-classroom_23-2150444952.jpg?semt=ais_hybrid&w=740" height="200" ></td>
+    <td> mr vijay prakan </td>
+<td> american</td>
+<td>  39 </td>
+<td> 2 </td>
+</tr>
+<tr> 
+    
+    <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8gqOwcW9Z16eqZIdmcsNdMQ5bAtvbvCnrIw&s" height="200" ></td>
+    <td> allison deer</td>
+<td> austrailian </td>
+<td> 25 </td>
+<td> 3 </td>
+</tr>
+</table>
+<small> this is not based of the real school, and not based of one or meant to be someone.</small>
+<audio controls autoplay>
+    <source src>
+</audio>
 </body> 
     </html>
