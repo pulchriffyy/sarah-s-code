@@ -14,5 +14,32 @@
     <video controls autoplay type="video/mp4" height="300" >
         <source src="86394-593059181_tiny.mp4">
     </video>
+    <table border="5">
+        <th> Gallery </th>
+        <th> NAME </th>
+        <th> place </th>
+    
+    <tr> 
+        <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewun1nYN62-JCYRSDFEj1AkmY7E0RQ1GDAA&s" height="200" > </td>
+        <td> wat arun </td>
+    <td> thanon wang doem, ratanakosin, thonburi, bangkok</td>
+    </tr>
+    <tr> 
+        <td> <img src="https://www.expique.com/wp-content/uploads/2021/01/Grand-Palace-7.jpg" height="200" ></td>
+        <td> grand palace </td>
+    <td> bangkok </td>
+    </tr>
+    <tr> <td> <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/70/d1/ef/victory-monument-at-sunset.jpg?w=1200&h=1200&s=1" height="200" ></td>
+        <td> victory monument </td>
+    <td> bangkok </td>
+    
+    </tr>
+    <tr> 
+        <td> <img src="https://cdn.getyourguide.com/img/tour/62b9ca2b20beb.jpeg/146.jpg" height="200" ></td>
+        <td> death railway train </td>
+    <td>  kanchanaburi</td>
+    
+    </tr>
+    </table>
 </BODY>
 </html>
