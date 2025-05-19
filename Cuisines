@@ -1,0 +1,71 @@
+<HTML>
+    <head> <h1> Best cuisines of the world</h1>
+        <link href="my design .css" rel="stylesheet">
+        <style> 
+            h1{
+                background-color:rgb(226, 155, 104);
+                color :black;
+            }
+            h3{
+                background-color:rgb(243, 251, 216);
+                color :black;
+            }
+            * {
+                font-family: :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            .myclass {
+                color: rgb(137, 23, 52);
+                text-align: center;
+                background-color:rgb(181, 97, 168)
+            }
+        </style>
+            </head>
+            <body>
+        
+                <h3>
+                    Food, a masterpeice that keeps us alive from today, sprinkled with spices or with tasty ingredients. food brings happiness ones stomach as we encounter best cuisines made out of shocking or simple things like potatoes, that would  be a-peeling, infact. Now lets embark on this journey of food before my stomach growls!
+                </h3>
+                <h2 style="background-color: rgb(128, 152, 196);">
+                    <ul>
+                        <a href="#footer">
+                        
+                        
+                        <li> contact</li>
+                    </a>
+                    </ul>
+                </h2>
+                
+                <h2 style="background-color: rgb(182, 224, 234);">
+                    <table border="20">
+                        <td>
+                            name
+                        </td>
+                        
+                        <tr>
+                            <th> italian </th>
+                            <th> lasagna, pizza, pasta</th>
+                        </tr>
+                        <tr>
+                            <th> Indian / Desi</th>
+                            <th> pilaf, biryani, samosas, jalebi, gulab jamun</th>
+                        </tr>
+                        <tr>
+                            <th> Mexican </th>
+                            <th> tacos, burrito</th>
+                        </tr>
+                        <tr>
+                            <th>  japanese </th>
+                            <th> suhsi,  mochi</th>
+                        </tr>
+                        <tr> <th> Chinese</th>  
+                        <th> shashlik manchurian</th>
+                    </table>
+                    
+                </h2>
+                <H1> Enjoy! </H1>
+            <h3 class="myclass">
+                all code belongs to the one and only, me.
+            </h3>
+            </body>
+</html>
+           
