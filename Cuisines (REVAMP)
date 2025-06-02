@@ -1,0 +1,17 @@
+<HTML>
+    <head>
+        <style>
+            div {
+                display:flex;
+                justify-content:flex-end;
+  right:120px;
+  border:10px solid #60b2b9;
+  width:200px; }
+  
+</style>
+</head>
+<body>
+    <h1> HII</h1>
+<div> HELLO </div>
+</body>
+</html>
