@@ -1,0 +1,160 @@
+<HTML>
+    <head>
+        <style>
+            body {
+                background-color: rgb(229, 240, 250);
+
+            }
+
+
+  
+  .flex-container {
+    display:flex;
+   
+width:1000;
+background-color: cadetblue;
+padding:40px;
+    }
+.flex-container div {
+    background-color:cadetblue;
+    width: 300px;
+    margin:5px;
+padding:10px;
+font-family:arial;
+font-size:30;
+justify-content:space-around;
+}
+h3 {
+    color:rgb(97, 156, 157);
+}
+h1 {
+    font-size:50px;
+}
+div.juel {
+  background-color:blue;
+}
+mark {
+  background-color:rgb(99, 171, 99);
+  box-shadow: 9px 20px 40px 12px;
+  
+  
+  }
+h1 {
+  font-family:arial;
+  padding:40px;
+ 
+}
+
+  
+}
+BUTTON {
+  height:50px;
+  border-radius:50px;
+  
+  
+}
+table {
+  background-color:rgb(156, 156, 211);
+  font-size:30px;
+}
+img {
+  border-radius:5px;
+   margin:10px;
+  width:400px;
+  box-shadow:9px 9px 20px rgb(137, 137, 171);
+}
+
+</style>
+</head>
+
+<body>
+    <center></center>
+   <DIV CLASS="flex-container">
+    <div>   <h1> cuisine with me </h1> </div>
+    <div><h3> kklasddfdfgfgjjdjdjdjddsisisisisisiss</h3> </div>
+    <div> <img src="https://static.vecteezy.com/system/resources/thumbnails/005/513/590/small/catering-quality-food-design-premium-logo-vector.jpg"> </div>
+
+   </DIV>
+   <h2> Visit our resturant!</h2>
+   <h5> We are opened on monday to sunday 1pm to 4pm!!
+
+   </h5>
+     <TITLE> CUISINES </title>
+</head>
+<body>
+
+
+</div>
+
+
+
+<br>
+  <br>
+
+  
+  <h1> <mark> Cuisines! </mark> </h1>
+    <h3> Food is a substance consumed by living organisms, such as humans and animals, to provide nutrients and energy for growth, repair, and vital bodily processes. <u> but what is the <em> yummiest </em> food by far? </u> 
+    </h3> <button>
+    you can not click this button sadly
+    </button>
+    <h2> ––––––––––––––––––––––</h2>
+    <h1> Best cuisines </h1>
+    <table>
+  <tr>
+    <th>best foods –
+    </th>
+    <th>in our menu –</th> 
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Biryani</td>
+    <td>Yes</td> 
+    <td>Indian subcontinent</td>
+  </tr>
+  <tr>
+    <td>Sushi</td>
+    <td>Yes</td> 
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>Dumplings</td>
+    <td>No</td> 
+    <td>China</td>
+  </tr>
+  <tr>
+    <td> Lasagna</td>
+    <td>Yes</td> 
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>pasta </td>
+    <td>No</td> 
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>Pizza</td>
+    <td>Yes</td> 
+    <td>Italy</td>
+  </tr>
+  <tr>
+    <td>Tiramisu</td>
+    <td>Yes</td> 
+    <td>Italy</td>
+  </tr>
+</table>
+
+    
+    <h2> –––––––––––––––– <h2>
+      <h5> thank you! <h5>
+        <img src="https://m.media-amazon.com/images/I/51g3HxN-VYL.jpg" width="200"> </img>
+    </center>
+  <h4> Dont forgot we have a <del> 200 </del> -- 100 dollar discount this week!</h4>
+  <h1> Our older version.</h1><nav> https://codepen.io/sarah-tayyab-sariee/pen/bNdGQMM</nav>
+
+  <h1> Who we are? </h1>
+  <h3> We are the people of Ava-cado's and Catering quality foodn. a bistro of food and many delights. we'd love you there!  We are the people of Ava-cado's. a bistro of food and many delights. we'd love you there!  We are the people of Ava-cado's. a bistro of food and many delights. we'd love you there!  We are the people of Ava-cado's. a bistro of food and many delights. we'd love you there!</h3>
+  <h1> Credits</h1>
+  <h3> not based on a real place // images dont belong to me. // Will upgrade each month possibly // Made by pulchrifyy on github. // app used, VS code.</h3>
+</body>
+
+</html>
