@@ -1,0 +1,114 @@
+<html>
+    <head>
+        <link rel="stylesheet" href=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+</script>
+
+        <style>
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button {
+    border-radius:8px;
+
+}
+        </style>
+    </head>
+    <body> 
+<center><H1> Hobbies </H1>
+    <h4> Imagine its a boring sunday with nothing to do, here are some ideas to make it 'funday'!</h4></body>
+</center>
+<div class="container">
+     <div class="row">
+       <div class="col">
+         <img src="https://lifestylefrisco.com/wp-content/uploads/2021/03/man-learning-to-cook-scaled.jpg" width="200px">
+        </div>
+        <div class="col">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwb-LxfL6DH2_v443LcLn-Hhia8Xw9TaRi7zRKvn6F88NzquEDwS8vLRutlOBex_xsEh0&usqp=CAU" width="200px">
+        </div>
+        <div class="col">
+            <img src="https://origamiok.com/wp-content/uploads/2024/11/Origami-Kusudama-Flower-2-1024x1024.webp" width="200px">
+        </div>
+     </div> 
+     <div class="container">
+        <div class="row">
+          <div class="col">
+           <button> cooking </button>
+           </div>
+           <div class="col">
+              <button>drawing</button>
+           </div>
+           <div class="col">
+            <button> Origami </button>
+              
+           </div>
+        </div> 
+        <CENTER> 
+        <div class="container-fluid bg-info text-white">
+            <h1 text-align="center"> What Is Cooking </h1>
+                <ul> <li> The proccess of making foods, thay may include baking</li> <li> a form of art that's tasty!
+
+                
+               
+           </div>
+           <br>
+           <div class="container pt-5 bg-warning text-white">
+               <h1 text-align="center"> drawing </h1>
+                  <p> <ul> <li> Expressing without words</li> <li> can buy you sometime out of boredom</li></ul></p>
+                 
+              </div>
+              <div class="container pt-5 bg-success text-white">
+                <h1 text-align="center">  origami </h1>
+                   <p> <ul> <li> folding papers to create shapes and things</li> <li> peaceful</li></ul></p>
+                  
+               </div>
+            </CENTER>
+            <div class="container">
+                <div class="row">
+                  <div class="col">
+                    <img src="https://www.vbs-hobby.nl/media/thumbs/1202490_8534539.jpg" width="200px">
+                   </div>
+                   <div class="col">
+                       <img src="https://www.chubb.com/content/dam/chubb-sites/chubb/global/images/things/collecting-vintage-stamps-850x500.jpg" width="200px">
+                   </div>
+                   <div class="col">
+                       <img src="https://www.aig.ie/content/aig/emea/ie/en/home/solutions/our-blog/first-hand-guide-to-solo-travelling/_jcr_content/root/responsivegrid/responsivegrid_copy_/container_copy_copy_/container/image.coreimg.jpeg/1733840042876/solo-traveling-1-1440x720.jpeg" width="200px">
+                   </div>
+                </div> 
+                <div class="container">
+                   <div class="row">
+                     <div class="col">
+                      <button> stamp collecting </button>
+                      </div>
+                      <div class="col">
+                         <button> scrap booking</button>
+                      </div>
+                      <div class="col">
+                       <button> travelling </button>
+                         
+                      </div>
+                   </div> 
+                   <CENTER> 
+                   <div class="container-fluid bg-info text-white">
+                       <h1 text-align="center"> Stamp collecting </h1>
+                           <ul> <li> </li> <li> a form of art that's tasty!
+           
+                           
+                          
+                      </div>
+                      <br>
+                      <div class="container pt-5 bg-warning text-white">
+                          <h1 text-align="center"> drawing </h1>
+                             <p> <ul> <li> Expressing without words</li> <li> can buy you sometime out of boredom</li></ul></p>
+                            
+                         </div>
+                         <div class="container pt-5 bg-success text-white">
+                           <h1 text-align="center">  origami </h1>
+                              <p> <ul> <li> folding papers to create shapes and things</li> <li> peaceful</li></ul></p>
+                             
+                          </div>
+                       </CENTER>
+    </body>
+    </html>
