@@ -1,16 +1,54 @@
 <html>
     <head>
-<style>
- 
-body {
-background-color: aqua;
-}
-</style>
-    </head>
-    <body>
+        <style>
+            * {
+                font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            
+            }
+            body {
+                background-color: cadetblue;
+            }
+        body.dark {
+            color:rgb(16, 54, 120);
+            background-color: rgb(0, 0, 0);
+        }
+        button {
+            background-image: linear-gradient(rgb(73, 255, 249), rgb(164, 230, 159), #f2a7ff);
+        border-radius:40px;
         
-        <script>
-
-        </script>
-    </body>
-</html>
+        }
+        h1 {
+            background-color: aquamarine;
+        }
+        p {
+            background-color: rgb(40, 145, 215);
+        }
+        </style>
+            </head>
+            <body>
+                <h1>When E vanished</h1>
+                <p id="story">An AI called G.R.A.M.M.R. deleted the letter E to "simplify" English.
+                    Suddenly no one could say "help"—or even their own names.
+                    But one girl, Mina, still remembers E—because her messy glitter notebook was unreadable to the AI.
+                    Now she holds the last E in the world...
+                   
+                 and the language is falling apart.</p>
+               <center>
+                 <button onclick="goDark()"> Dark mode</button>
+                
+                
+                    
+                    <button onclick="finishthestory()">Whats next? </button>
+                </center>
+        
+                <script>
+                 
+                 function goDark() {
+                    document.body.className ="dark";
+                 }
+                 function finishthestory() {
+                 document.getElementById("story").innerHTML = "During times were enlgish started to get boring or not new, G.R.A.M.M.R decides to delete E. A prisoner who was jailed but famous. They prisoned him for a crime which was exposing the AI and its dark secrets..stay tuned!";
+                 }
+                </script>
+            </body>
+    </html>
