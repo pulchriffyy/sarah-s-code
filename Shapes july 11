@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <style>
+              .rectangle {
+             border: 1px solid black;
+             width:200px;
+             height:200px;
+             margin:auto;
+            }
+            .button {
+                padding:7px;
+                width:190px;
+                margin: auto;
+                background-color:rgb(134, 199, 199);
+            }
+            </style>
+    </head>
+    <body>
+        <div class="rectangle">
+
+        </div>
+        <div class="button">
+            <button onclick="changetocircle()"> make circle</button>
+            <button onclick="hide()"> Hide </button>
+        <button onclick="show()"> Show</button>
+        </div>
+         </div>
+        <script>
+            let div = document.querySelector('.rectangle');
+            function changetocircle() {
+                div.style.borderRadius = "50%" ;
+
+            }
+            function hide() {
+                div.style.display = "none" ;
+                
+            }
+            function show() {
+                div.style.display = "block" ;
+                
+            }
+            function hide() {
+                div.style.display = "none" ;
+                
+            }
+            div.onmouseenter = function() {
+                div.style.background = "red";
+            }
+            div.onmouseout = function() {
+                div.style.background = "none";
+            }
+            </script>
+    </body>
+</html>
