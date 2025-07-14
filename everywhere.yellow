@@ -1,0 +1,66 @@
+<html>
+    <head>
+        <link rel="stylesheet" href=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+</script>
+        <style>
+
+            body {
+                background: linear-gradient(to top right, #e2a023 0%, #fbff8d 100%);
+            }
+              .rectangle {
+                border: 3px solid rgb(212, 191, 99); ;
+             width:200px;
+             height:200px;
+             margin:auto;
+             background-color:white;
+             box-shadow: 10px 10px 20px 12px rgb(163, 147, 77);
+            }
+            .button {
+                padding:7px;
+                width:190px;
+                margin: auto;
+                background-color:rgb(212, 191, 99);
+            }
+            </style>
+    </head>
+    <body>
+        <div class="rectangle">
+
+        </div>
+        <div class="button">
+            <button onclick="changetocircle()"> make circle</button>
+            <button onclick="hide()"> Hide </button>
+        <button onclick="show()"> Show</button>
+        </div>
+         </div>
+        <script>
+            let div = document.querySelector('.rectangle');
+            function changetocircle() {
+                div.style.borderRadius = "50%" ;
+
+            }
+            function hide() {
+                div.style.display = "none" ;
+                
+            }
+            function show() {
+                div.style.display = "block" ;
+                
+            }
+            function hide() {
+                div.style.display = "none" ;
+                
+            }
+            div.onmouseenter = function() {
+                div.style.background = "lightyellow";
+            }
+            div.onmouseout = function() {
+                div.style.background = "yellow";
+            }
+            
+            </script>
+    </body>
+</html>
