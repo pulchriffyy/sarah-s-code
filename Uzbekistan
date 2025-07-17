@@ -1,0 +1,58 @@
+<html>
+    <head>
+      
+<style>
+body {
+  text-align:center;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav {
+  background-color:cadetblue;
+  padding:10px;
+}
+ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+overflow: hidden;
+}
+li {
+  float: left;
+  padding: 10px;px;
+  
+}
+li a {
+display:block;
+}
+li a:hover {
+  background-color:rgb(161, 143, 178);
+}
+</style>
+
+    </head>
+    <body>
+<nav>
+  <ul>
+  <li><a href="#">Home </a></li>
+  
+  <li><a href="#">About</a></li>
+  <li><a href="#">Contact</a></li>
+</ul>
+</nav>
+<h1> Uzbekistan </h1>
+<img src="https://dolorestravel.com/uploads/ModelContentRow/625/service_content-63acc19f5cd0e.jpeg">
+<br>
+
+<br><br><br><br>
+<button onclick="Uzbekistani();">Learn more</button>
+<p id="txtphnga"></p>
+<iframe width="400" height="400" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d410297.69987900095!2d98.41216567103315!3d8.237618426784682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3051ae1fa309ac55%3A0x7e4762da6e07a9ca!2sPhang%20Nga%20Bay!5e0!3m2!1sen!2sth!4v1752560461032!5m2!1sen!2sth"></iframe>
+    <script>
+function phangna() {
+document.getElementById('txtphnga').innerHTML ="Phang Nga Bay lies between southern Thailand's mainland and Phuket Island. Also known as Ao Phang Nga National Park, it's characterized by limestone cliffs and rock formations, as well as mangrove forests and small islands. Among the islands are Koh Tapu, known as James Bond Island for its appearance in a Bond film. Koh Phanak Island is known for its caves and lagoons. The bay's waters are dotted with coral reefs."
+}
+      </script>
+         
+    </body>
+
+</html>
