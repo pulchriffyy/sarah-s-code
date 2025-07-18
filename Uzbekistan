@@ -7,7 +7,7 @@ body {
  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 nav {
-  background-color:cadetblue;
+  background-color:rgb(189, 162, 99);
   padding:10px;
 }
 ul {
@@ -25,7 +25,7 @@ li a {
 display:block;
 }
 li a:hover {
-  background-color:rgb(161, 143, 178);
+  background-color:rgb(144, 109, 33);
 }
 </style>
 
@@ -33,23 +33,36 @@ li a:hover {
     <body>
 <nav>
   <ul>
-  <li><a href="#">Home </a></li>
+    <h1> Uzbekistan </h1>
+  <li><a href="#">Mainpage </a></li>
   
-  <li><a href="#">About</a></li>
+  <li><a href="#">about the uzbeks</a></li>
   <li><a href="#">Contact</a></li>
 </ul>
 </nav>
-<h1> Uzbekistan </h1>
-<img src="https://dolorestravel.com/uploads/ModelContentRow/625/service_content-63acc19f5cd0e.jpeg">
+
+<div class="container">
+     <div class="row">
+       <div class="col">
+         <img src="https://dolorestravel.com/uploads/ModelContentRow/625/service_content-63acc19f5cd0e.jpeg" width="300px">
+        </div>
+        <div class="col">
+            <img src="https://media.meer.com/attachments/870c613806062ce8a7a660982d86544341c4592a/store/fill/1090/613/40c5c3aa68bed72afcb5cc9a35e64f242385d1f7abdb1f643548c6d3a13b/Uzbekistan-at-sunset.jpg" width="300px">
+        </div>
+        <div class="col">
+            <img src="https://media.licdn.com/dms/image/v2/C4D12AQGrpF02_Cvy9A/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1548051783819?e=1756944000&v=beta&t=4cZUGummhOXkGUGffldAVc2CLG3fIwvrXVkKYsCjks4" width="300px">
+        </div>
+     </div> 
+
 <br>
 
 <br><br><br><br>
 <button onclick="Uzbekistani();">Learn more</button>
-<p id="txtphnga"></p>
-<iframe width="400" height="400" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d410297.69987900095!2d98.41216567103315!3d8.237618426784682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3051ae1fa309ac55%3A0x7e4762da6e07a9ca!2sPhang%20Nga%20Bay!5e0!3m2!1sen!2sth!4v1752560461032!5m2!1sen!2sth"></iframe>
+<p id="helo"></p>
+<iframe width="400" height="400" id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12351403.910317484!2d53.96453205675047!3d40.90523183304633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38ae8b20a5d676b1%3A0xca0a6dad7e841e20!2sUzbekistan!5e0!3m2!1sen!2sth!4v1752732650180!5m2!1sen!2sth"></iframe>
     <script>
-function phangna() {
-document.getElementById('txtphnga').innerHTML ="Phang Nga Bay lies between southern Thailand's mainland and Phuket Island. Also known as Ao Phang Nga National Park, it's characterized by limestone cliffs and rock formations, as well as mangrove forests and small islands. Among the islands are Koh Tapu, known as James Bond Island for its appearance in a Bond film. Koh Phanak Island is known for its caves and lagoons. The bay's waters are dotted with coral reefs."
+function uzbekistani() {
+document.getElementById('helo').innerHTML ="Uzbekistan is a Central Asian nation and former Soviet republic. It's known for its mosques, mausoleums and other sites linked to the Silk Road, the ancient trade route between China and the Mediterranean. Samarkand, a major city on the route, contains a landmark of Islamic architecture: the Registan, a plaza bordered by 3 ornate, mosaic-covered religious schools dating to the 15th and 17th centuries. "
 }
       </script>
          
