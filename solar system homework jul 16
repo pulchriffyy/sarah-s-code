@@ -1,0 +1,77 @@
+<html>
+    <head>
+      <link rel="stylesheet" href=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src=
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+</script>
+   <style>
+h1 {
+    text-align: center;
+width:130;
+color:rgb(192, 172, 255);
+
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image:linear-gradient(to bottom right, rgb(25, 4, 48), rgb(179, 38, 156));;
+
+}
+nav {
+    background-image: url("https://img.freepik.com/free-vector/watercolor-gradient-galaxy-background_23-2149223891.jpg");
+  padding:10px;
+}
+ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+overflow: hidden;
+}
+li {
+  float: left;
+  padding: 10px;
+  background-color: rgb(210, 163, 255);
+}
+li a {
+display:block;
+}
+li a:hover {
+  background-color:rgb(132, 0, 255);
+}
+
+   </style>
+    </head>
+    <body>
+        <nav>
+            <ul>
+            <li><a href="#">Home </a></li>
+            
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+          <h1>
+            OUR 
+                SOLAR 
+       SYSTEM</h1>
+          </nav>
+          <div class="row">
+            <div class="col-sm-5 col-lg-4">
+             <img src="https://wallpapersok.com/images/thumbnail/pastel-galaxy-purple-light-5qsnlz51xfm7k0rz.webp" width="300">
+            </div>
+            <div class="col-sm-7 col-lg-8">
+             <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquam lorem scelerisque, sagittis diam et, volutpat tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer fringilla arcu sed libero posuere elementum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut id mauris lacinia odio gravida blandit vel sit amet ipsum. Suspendisse bibendum mollis aliquet. Quisque ut massa semper, consequat mi sit amet, commodo purus. Nulla sed vehicula mauris. Curabitur sit amet ultricies lectus. Integer sed sem odio. Fusce efficitur tortor urna, vitae pretium justo mollis porta. Pellentesque leo sem, elementum id tincidunt sit amet, consequat eget leo. Morbi dictum luctus lectus, a aliquam enim auctor at. Proin fermentum at neque eu hendrerit. Fusce in nisi id neque efficitur pulvinar. Pellentesque sapien enim, malesuada nec mi eu, sagittis condimentum ex.
+    
+    Mauris sit amet dui ultricies, scelerisque elit quis, posuere orci. In eget consectetur nunc, ac cursus tellus. Donec condimentum metus velit, et congue metus rutrum et. In posuere lectus at lacus blandit sagittis. Proin suscipit ullamcorper velit. Cras sagittis felis sit amet felis rhoncus consectetur. Nullam nunc orci, egestas eu turpis sed, ullamcorper condimentum neque. Curabitur luctus nec lorem non malesuada. Aenean eget lectus non dolor aliquam fringilla ut id sapien. Mauris dapibus lorem finibus laoreet tincidunt. Integer tincidunt quam sit amet ipsum molestie, et bibendum sapien facilisis. Sed rhoncus, lorem vel mattis imperdiet, turpis elit volutpat massa, et tristique lorem est vel augue. Nunc suscipit volutpat ultricies.
+    
+    Duis sed leo molestie, pretium nunc at, mollis nisi. Dc iaculis augue nec fermentum molestie. Pellentesque lacinia lectus semper faucibus vestibulum. In at enim dapibus, egestas lectus a, ultrices justo. Quisque vel tempor ligula. Pellentesque ipsum justo, vestibulum rutrum augue vel, ultricies laoreet tellus. Donec maximus mauris eget odio pharetra condimentum. Nunc bibendum mauris vel felis fermentum, ac lacinia dui gravida. Mauris vitae facilisis orci. Nunc massa ante, sagittis vitae nibh at, iaculis ullamcorper sapien.
+    
+    </p>
+            </div>
+          </div>
+
+<h3>henjwewcssxxacs</h3>
+      <script>
+
+      </script>
+    </body>
+</html>
