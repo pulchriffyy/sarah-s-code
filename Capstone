@@ -1,10 +1,73 @@
 <HTML>
     <head>
+        <title>Capstone.web</title>
         <style>
+
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: rgb(254, 247, 218);
+text-align:center;
+}
+
+.topnav {
+    overflow:hidden;
+
+    background-color: rgb(244, 216, 181);
+}
+.topnav a {
+float :center;
+background-color: rgb(157, 165, 248);
+text-align: center;
+padding:15px;
+margin:15;
+text-decoration:none;
+font-size:20px;
+}
+
+.topnav a:hover {
+    background-color: black;
+    color: rgb(232, 243, 252);
+}
+.topnav a:active {
+    background-color: rgb(225, 227, 129);
+    color: rgb(19, 18, 17);
+}
 
         </style>
     </head>
     <body>
+        <div class="topnav">
+            <a class="active" href="#">Main</a>
+            <a  href="#">Facts</a>
+            <a  href="#">gallery</a>
+            <a  href="#">Trips</a>
+        </div>
+        <H1>Penguins</H1>
+        <p> Penguins are a group of flightless seabirds,
+             primarily found in the Southern Hemisphere,
+              that are highly adapted for life in the water. 
+              They are known for their black and white
+               plumage, flippers (modified wings), 
+            and streamlined bodies,
+             which make them excellent swimmers and divers. 
+             Most penguins spend a s
+             ignificant portion of their lives in the 
+             ocean, hunting for fish, krill, and squid. </p>
+             <hr>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXS25ZWAzx2p8f_bseBWZ0EyCpDLookSrP-Q&s">
+             <br> <br> <small> King penguin picture by woods hole oceangraphy </small>
+             <h1>Facts</h1>
+             <ol>
+                <li>penguins don't have teeth, but instead have spines in their mouths to help swallow prey.</li>
+                <br>
+                <li>unique adaptations for survival in cold climates, including specialized feathers and the ability to drink salt water.</li>
+             <br>
+             <br>
+             <li>undergo a "catastrophic molt," losing all their feathers at once. Furthermore, while many penguins are monogamous for a season, some species form lifelong bonds. 
+            </li>
+            <li>Emperor penguins, in particular, are impressive divers, capable of reaching depths of over 1,850 feet and holding their breath for up to 20 minutes</li>
+            </ol>
         <script>
             
         </script>
