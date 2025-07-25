@@ -33,6 +33,11 @@ font-size:20px;
     background-color: rgb(225, 227, 129);
     color: rgb(19, 18, 17);
 }
+.myslides {
+    display:none;
+    max-height:100%;
+    max-width:100%;
+}
 
         </style>
     </head>
@@ -66,10 +71,32 @@ font-size:20px;
              <br>
              <li>undergo a "catastrophic molt," losing all their feathers at once. Furthermore, while many penguins are monogamous for a season, some species form lifelong bonds. 
             </li>
+            <br>
             <li>Emperor penguins, in particular, are impressive divers, capable of reaching depths of over 1,850 feet and holding their breath for up to 20 minutes</li>
             </ol>
+
+
+            <section style="margin-left:450px;">
+                <img class="myslides" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg/640px-Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg" style="height:437px; width:300px;" >
+                <img class="myslides" src="https://i.pinimg.com/236x/28/d2/7a/28d27a71660a77e0fbc82b683a04164c.jpg" style="height:437px; width:300px;">
+            </section>
+
         <script>
-            
+            var myIndex = 0;
+            carousel();
+            function carousel() {
+            var i;
+ var x = document.getElementsByClassName('myslides');
+ for (i = 0; i < x.length; i++ ) {
+    x[i].style.display = "none";
+    
+ }
+ myIndex++
+ if (myIndex > x.length) {myIndex = 1}
+ x[myIndex - 1].style.display = "block";
+ setTimeout (carousel, 3000);
+}
+
         </script>
     </body>
 </html>
