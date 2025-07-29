@@ -1,45 +1,93 @@
 
 <html> 
     <head> 
-     
+        <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
+        <style>
+            body{
+                background-image: linear-gradient(120deg, rgb(116, 83, 83), rgb(238, 238, 109));
+            }
+            .JJK {
+                background-image: linear-gradient(180deg, red, yellow);
+}
+            
+            h1 {
+                font-family:"sofia",sans-serif;
+                text-align: center
+                
+            padding :50px;
+                
+                
+            }
+            .Image {
+    position:relative;
+    opacity:0.70;
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-image:url('https://cdn.forevervacation.com/uploads/blog/thailand-visitor-guide-things-to-do-4406.jpg');
+    width:'1000px';
+    min-height:400px;
+}
+.flex-container {
+    display:flex;
+    flex-direction:row;
+
+background-color: rosybrown;
+padding:20px;
+border-radius:50px;
+    }
+.flex-container div {
+    background-color:rgb(193, 168, 137);
+    width: 300px;
+    margin:10px;
+text-align: center;
+padding-top:10px;
+font-family:cursive;
+font-size:30;
+border-radius:30px;
+}
+        </style>
     </head>
-    
     <BODY> 
-       
-        <iframe src="https://cdn.forevervacation.com/uploads/blog/thailand-visitor-guide-things-to-do-4406.jpg" width="2000" height="1000"> </iframe>
-        <small> THAILAND AUDIO AND VIDEO AND TOURIST STUFF</small>
+        <div class="JJK">
+        <div class="flex-container">
+            <div class="bg-primary text-white">Trips</div>
+            <div class="bg-success text-white"> videos</div>
+       <h1 class="font-effect-fire">Thailand</h1>
+       <div class="bg-warning text-white">images</div>
+       <div class="bg-info text-white">About</div>
+        </div>
+               <div class="Image">
+            <div class="Ptxt">
+                
+                <span class="body trans">
+                    <center>
+                        <br>  <br> <br> <br> <br> <br> <br>
+                    <em><h1><mark> thailand!</mark></h1></em>
+                    <br><br>
+                    <small><mark>The land of the free</mark></small>
+                </center>  
+                </span>
+            </div>
+        </div>
+    </div>
+        <br>
+        <br>
+        <br>
+        
         <audio controls autoplay type="audio/mpeg">
         <source src="chinatown-chinese-new-year-276682.mp3">
     </audio>
     <video controls autoplay type="video/mp4" height="300" >
         <source src="86394-593059181_tiny.mp4">
     </video>
-    <table border="5">
-        <th> Gallery </th>
-        <th> NAME </th>
-        <th> place </th>
     
-    <tr> 
-        <td> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewun1nYN62-JCYRSDFEj1AkmY7E0RQ1GDAA&s" height="200" > </td>
-        <td> wat arun </td>
-    <td> thanon wang doem, ratanakosin, thonburi, bangkok</td>
-    </tr>
-    <tr> 
-        <td> <img src="https://www.expique.com/wp-content/uploads/2021/01/Grand-Palace-7.jpg" height="200" ></td>
-        <td> grand palace </td>
-    <td> bangkok </td>
-    </tr>
-    <tr> <td> <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/70/d1/ef/victory-monument-at-sunset.jpg?w=1200&h=1200&s=1" height="200" ></td>
-        <td> victory monument </td>
-    <td> bangkok </td>
-    
-    </tr>
-    <tr> 
-        <td> <img src="https://cdn.getyourguide.com/img/tour/62b9ca2b20beb.jpeg/146.jpg" height="200" ></td>
-        <td> death railway train </td>
-    <td>  kanchanaburi</td>
-    
-    </tr>
-    </table>
 </BODY>
 </html>
