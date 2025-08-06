@@ -1,0 +1,101 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<style>
+        body {
+            position:relative;
+
+        }
+        #section1 {
+            padding-top:20px;
+            color: rgb(246, 252, 255);
+            background-color: rgb(199, 199, 255);
+        }
+        #section2 {
+            padding-top:20px;
+            color: rgb(157, 157, 157);
+            background-color: rgb(161, 161, 255);
+        }
+        #section3 {
+            padding-top:20px;
+            color: rgb(105, 104, 104);
+            background-color: rgb(139, 139, 255);
+        }
+        #section4 {
+            padding-top:20px;
+            color: rgb(65, 65, 65);
+            background-color: rgb(114, 114, 254);
+        }
+        #section42 {
+            padding-top:20px;
+            color: rgb(0, 0, 0);
+            background-color: rgb(78, 78, 255);
+        }
+    
+        </style>
+    </head>
+    <body data-spy="scroll" data-target=".navbar">
+        <div class="container">
+            <nav class="navbar-inverse navbar-fixed-top">
+                <div class="container-fluid">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#" style="left: margin auto;">
+                        websiteeq
+                    </a>
+
+                <div>
+                    
+                <div class="collapse navbar-collapse" id="mynavbar">
+                    <ul class="nav navbar-nav" style="left: margin 300px;">
+                        <li><a href="#section1">Section one.</a></li>
+                        <li><a href="#section2">Section two!</a></li>
+                        <li><a href="#section3">Section three.</a></li>
+ 
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Section four!</a> 
+                    <span class="caret"></span> 
+                <ul class="dropdown-menu">
+                    <li><a href="#section4">Section four.</a></li>
+                    <li><a href="#section42">Section subfour!!.</a></li>
+                </ul></li>
+                    </ul>
+                </div>
+            </div>
+                </div>
+            </nav>
+        </div>
+
+    <br><br><br><br><br>
+<div id="section1" class="container-fluid">
+    <h1> iii </h1>
+    <p> Anything </p>
+</div>
+<div id="section2" class="container-fluid">
+    <h1> literally  just add anything</h1>
+    <p> but i have no ideas on what to write</p>
+
+    
+</div>
+<div id="section3" class="container-fluid">
+    <h1> Oh alright </h1>
+    <p> Anything. </p>
+</div>
+<div id="section4" class="container-fluid">
+    <h1>Fourth universe</h1>
+    <p>maybe if there even is one</p>
+</div>
+<div id="section42" class="container-fluid">
+    <h1>sub-Fourth universe</h1>
+    <p>backup universe?</p>
+</div>
+        </body>
+    </html>
