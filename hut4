@@ -1,0 +1,53 @@
+<html>
+    <head>
+         <style>
+
+         </style>
+    </head>
+    <body>
+      <body data-spy="scroll" data-target=".navbar">
+        <div class="container">
+            <nav class="navbar-inverse navbar-fixed-top">
+                <div class="container-fluid">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#" style="left: margin auto;">
+                        websiteeq
+                    </a>
+
+                <div>
+                    
+                <div class="collapse navbar-collapse" id="mynavbar">
+                    <ul class="nav navbar-nav" style="left: margin 300px;">
+                        <li><a href="#">Section one.</a></li>
+                        <li><a href="">Section two!</a></li>
+                        <li><a href="">Section three.</a></li>
+ 
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Section four!</a> 
+                    <span class="caret"></span> 
+                <ul class="dropdown-menu">
+                    <li><a href="#">Section four.</a></li>
+                    <li><a href="">Section subfour!!.</a></li>
+                </ul></li>
+                    </ul>
+                </div>
+            </div>
+                </div>
+            </nav>
+        </div>
+
+    <br><br><br><br><br>
+<div id="section1" class="container-fluid">
+  
+    
+</div>
+              <script>
+
+            </script>
+    </body>
+</html>
