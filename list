@@ -1,0 +1,8 @@
+list =['a' 'b' 'c' 'd']
+print("length :", len(list))
+print("first :", list[0])
+print("first :", list[-1])
+list.append('e')
+print("new :", list)
+list.remove('b')
+print("update : ", list)
