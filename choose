@@ -1,0 +1,17 @@
+print("1. bike")
+print("2. car")
+e = int(input("chose way of transportation"))
+if e == 1:
+    a = int(input("scooty(1) or scooter(2)"))
+    if a == 1:
+        print("Good choice!")
+    else:
+        print("Good choice!")
+elif e == 2:
+    a = int(input("alphard(1) or fortuner(2)"))
+    if a == 1:
+        print("Good choice!")
+    else:
+        print("Good choice!")
+else:
+    print("wrong choice!")
