@@ -1,0 +1,6 @@
+st = str(input("enter a number "))
+s = ('')
+for i in st:
+    s = i + s
+print("\n original line :: ", st)
+print("reversed", s)
