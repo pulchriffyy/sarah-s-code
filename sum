@@ -1,0 +1,7 @@
+
+sum = int(input("Type a value"))
+for h in range(0,10):
+    for i in range(0,h):
+        total=sum*h
+    print(total)
+#    lmum = h+sum 
