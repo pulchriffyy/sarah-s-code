@@ -1,0 +1,6 @@
+sum = int(input("Type a value"))
+total = 1
+for h in range(0,10):
+    total=sum*total
+
+    print(total)
