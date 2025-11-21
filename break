@@ -1,0 +1,7 @@
+a = input("please enter a string ")
+for i in a:
+    if (i.lower() == "a"):
+        print("A has been found in string")
+        break
+    else:
+        print("A has not been found in string")
