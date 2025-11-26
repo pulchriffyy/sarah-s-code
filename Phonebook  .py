@@ -1,3 +1,8 @@
+# Dear reader, i hope you are well. This code isnt working and i will try to learn how to fix it. 
+# Dear teacher, please check this work and inform me as you said, thank you all :)
+
+
+
 import sys
 def initial_phonebook():
     rows, cols = int(input("To start, please enter the number of contact:")),5
@@ -85,3 +90,4 @@ def searchexist(pb):
             if query == pb[i][0]:
                 check = i
                 temp.append (pb[i])
+
