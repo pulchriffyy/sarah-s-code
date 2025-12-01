@@ -1,0 +1,11 @@
+def sd():
+        for i in range(1,100):
+               d =  print("Shutting down..")
+               d
+        d = print(" ")
+        d
+h = input("Do you want to shutdown Y/N")
+if h == "Y":
+        sd()
+else:
+        print("Oh okay..")
